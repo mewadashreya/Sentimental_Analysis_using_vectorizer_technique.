@@ -1,7 +1,7 @@
 # Sentimental_Analysis_using_vectorizer_technique.
 
 This is the basic python textual analysis file made with google colaboratory
-This is the python file includes the basic exploratory data analyis of text file which includes :
+This is the python file includes the basic exploratory data analysis of text file which includes :
 
   1.Basis Exploratory Analysis:
 
